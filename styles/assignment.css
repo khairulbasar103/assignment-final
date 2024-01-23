@@ -89,40 +89,41 @@
   
   }
   .sec2{
-  margin-top: 120px;
+   margin-top: 120px;
   }
   
   .mid-title{
-  color: #FFF;
-  font-family: Merriweather;
-  font-size: 64px;
-  font-weight: 900;
-  line-height: 88px; /* 137.5% */
-  letter-spacing: 7.04px;
+   color: #FFF;
+   font-family: Merriweather;
+   font-size: 64px;
+   font-weight: 900;
+   line-height: 88px; /* 137.5% */
+   letter-spacing: 7.04px;
   /* width: 700; */
-  padding-top: 125px;
-  padding-left: 120px;
+   padding-top: 125px;
+   padding-left: 120px;
   
   }
   .dolor{
-  color: rgba(255, 255, 255, 0.80);
-  font-family: Inter;
-  font-size: 18px;
-  font-style: normal;
-  font-weight: 400;
-  padding-top: 25px;
-  padding-left: 126px;
-  line-height: 30px; /* 166.667% */
-  width: 700px;
+   color: rgba(255, 255, 255, 0.80);
+   font-family: Inter;
+   font-size: 18px;
+   font-style: normal;
+   font-weight: 400;
+   padding-top: 25px;
+   padding-left: 126px;
+   line-height: 30px; /* 166.667% */
+   width: 700px;
   
   }
   .btn1{
-  color: #FFF;
-  text-align: center;
-  font-family: Inter;
-  font-size: 20px;
-  font-weight: 700;
-  padding: 50px 430px 0 30px;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 50px 430px 0 30px;
+
   /* padding-right: 320px; */
   
   }
@@ -146,13 +147,13 @@
     /* width: 300px; */
    
   .items{
-   width: 1320px;
-   height: 482px;
-   flex-shrink: 0;
-   margin: auto;
-   background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
-   padding-top: 100px;
-   border-radius: 16px;
+    width: 1320px;
+    height: 482px;
+    flex-shrink: 0;
+    margin: auto;
+    background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    padding-top: 100px;
+    border-radius: 16px;
   
   }
   
@@ -226,12 +227,12 @@
   }
   
   .happy-1{
-   width: 300px;
-   color: rgba(7, 2, 17, 0.60);
-   font-family: Inter;
-   font-size: 20px;
-   font-weight: 400;
-   line-height: 32px; /* 160% */
+    width: 300px;
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px; /* 160% */
   
   }
   
@@ -262,10 +263,10 @@
   
   .funday{
   
-   color: #F00;
-   font-family: Inter;
-   font-size: 48px;
-   font-weight: 700;
+    color: #F00;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
   
   }
   
